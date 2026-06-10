@@ -27,7 +27,7 @@ $ Approach:
         The number of unique elements in array is equal to size of the set.
         Traverse the set and fill the first k indices with elements in set.
 
-    Time Complexity: O(N), We traverse the entire array and insert elements into set.
+    Time Complexity: O(N log N), We traverse the entire array and insert elements into set.
     Space Complexity: O(N), additional space used to store elements in set.
 
 2) Optimal Solution:   
